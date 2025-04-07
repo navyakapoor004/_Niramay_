@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remedies</title>
+    <link rel="stylesheet" href="/static/redemiees.css">
+    <script>
+        function toggleHelpBox() {
+            var content = document.getElementById("help-content");
+            if (content.style.display === "none" || content.style.display === "") {
+                content.style.display = "block";
+            } else {
+                content.style.display = "none";
+            }
+        }
+
+        function applySeverity() {
+            var selectedSeverity = document.getElementById("severity").value;
+            window.location.href = "?symptom={{ symptom }}&severity=" + selectedSeverity;
+        }
+    </script>
+</head>
+<body>
+
+    <header>
+        <h1>Remedies for {{ symptom }}</h1>
+    </header>
+
+    {% if error %}
+    <div class="error-message">
+        <p>😕 The symptom you’ve provided is not available in our dataset.</p>
+        <p>We mostly cover common day-to-day health issues. Since the symptom you entered isn't found, we recommend visiting a doctor for expert advice.</p>
+    </div>
+{% else %}
+    <section>...
+
+            <h2>Ayurvedic Remedies</h2>
+            <label for="severity">Select Severity:</label>
+            <select id="severity" onchange="applySeverity()">
+                <option value="Mild" {% if selected_severity == "Mild" %}selected{% endif %}>Mild</option>
+                <option value="Moderate" {% if selected_severity == "Moderate" %}selected{% endif %}>Moderate</option>
+                <option value="Severe" {% if selected_severity == "Severe" %}selected{% endif %}>Severe</option>
+            </select>
+
+            {% for remedy in ayurvedic_remedies %}
+                <div class="remedy-card">
+                    <h3>{{ remedy.name }}</h3>
+                    <p><strong>Dosage:</strong> {{ remedy.selected_dosage }}</p>
+                </div>
+            {% endfor %}
+        </section>
+
+        <section>
+            <h2>Home Remedies</h2>
+            <ul>
+                {% for remedy in home_remedies %}
+                    <li>{{ remedy }}</li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section>
+            <h2>Diet Recommendations</h2>
+            <ul>
+                {% for item in diet_recommendations %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </section>
+    {% endif %}
+
+    <button onclick="history.back()">Go Back</button>
+
+    <div class="help-box">
+        <h3 onclick="toggleHelpBox()" style="cursor: pointer;">Need Help? ▼</h3>
+        <div id="help-content" style="display: none;">
+            <p>Find more information below:</p>
+            <button onclick="window.location.href='/recipes'">🍳Don't know how to make? Need help with recipe? 🤔We've got you covered!🤗 </button>
+            <button onclick="window.location.href='/plants'">🌿Want to explore plant benefits?🌿</button>
+        </div>
+    </div>
+
+</body>
+</html>

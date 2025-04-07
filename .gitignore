@@ -1,0 +1,10 @@
+myvenv/
+*.zip
+*.pyd
+*.dll
+*.h5
+*.ckpt
+*.csv
+*.jpg
+*.jpeg
+*.png

@@ -1,0 +1,155 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Pacifico&display=swap');
+
+/* Reset & Body Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #a2d3bd;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background: #127d5d;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Remedies Section */
+section {
+    max-width: 900px;
+    margin: 20px auto;
+    background: #f8fff4;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #06452b;
+    margin-bottom: 15px;
+}
+
+/* Remedy Cards */
+.remedy-card {
+    background: rgba(255, 255, 255, 0.85);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.remedy-card h3 {
+    color: #06452b;
+    font-size: 22px;
+}
+
+.remedy-card p {
+    font-size: 16px;
+    color: #2d5243;
+}
+
+/* List Styling */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    background: #d6e8d1;
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 6px;
+    font-weight: 500;
+    color: #06452b;
+}
+
+/* Severity Dropdown */
+label {
+    font-size: 18px;
+    font-weight: 600;
+    color: #06452b;
+    margin-right: 10px;
+}
+
+select {
+    padding: 8px;
+    font-size: 16px;
+    border: 2px solid #127d5d;
+    border-radius: 8px;
+    outline: none;
+    background: white;
+    cursor: pointer;
+}
+
+/* Buttons */
+button {
+    background-color: #127d5d;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #0f6a4a;
+    transform: scale(1.05);
+}
+
+/* Help Box */
+.help-box {
+    max-width: 900px;
+    margin: 30px auto;
+    background: #f8fff4;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    cursor: pointer;
+}
+
+.help-box h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #06452b;
+}
+
+#help-content {
+    display: none;
+    margin-top: 10px;
+}
+
+/* Back Button */
+.back-button {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #06452b;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.back-button:hover {
+    color: #127d5d;
+}

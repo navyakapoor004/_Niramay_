@@ -1,0 +1,28 @@
+{% include "header.html" %}
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'Home.css' %}">
+<link rel="stylesheet" href="{% static 'css/Home.css' %}">
+
+
+<main class="hero">
+    <div class="container">
+        <h1>Niramay</h1>
+        <p>Discover the power of Ayurveda with us.</p>
+        <button onclick="location.href='{% url 'find_options' %}'">Get Started</button>
+    </div>
+</main>
+
+<section class="info-section">
+    <div class="info-box">
+        <h2>🌿 Why Ayurveda? 🌿</h2>
+        <p>Forget chemicals, embrace nature! Ayurveda has been healing for centuries—Niramay makes it smarter with AI-driven solutions tailored just for you.</p>
+    </div>
+
+    <div class="info-box">
+        <h2>🤔 How Does It Work? 🤔</h2>
+        <p>Feeling unwell? Just tell us your symptoms, and we will suggest natural remedies that will help you.</p>
+    </div>
+</section>
+
+
+{% include "footer.html" %}

@@ -1,0 +1,44 @@
+{% load static %}
+{% include "header.html" %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plant Prediction</title>
+    <link rel="stylesheet" href="/static/prediction.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🌿 Upload a Leaf Image</h2>
+        <p>Our AI will predict the medicinal plant from the image.</p>
+
+        <form method="POST" enctype="multipart/form-data" class="upload-form">
+            {% csrf_token %}
+            <input type="file" name="leaf_image" required>
+            <button type="submit">🔍 Predict Plant</button>
+        </form>
+
+        {% if plant_name %}
+            <div class="result">
+                <h3>✅ Predicted Plant:</h3>
+                <p><strong>{{ plant_name }}</strong></p>
+
+                <p class="curious-text">
+                    🤔 Want to know more about <strong>{{ plant_name }}</strong> and explore similar medicinal plants?
+                    <br> We've got you covered! Click below to discover more 🌱
+                </p>
+
+                <a class="btn-details" href="{% url 'plants' %}">🌿 Explore More Plants</a>
+            </div>
+        {% endif %}
+
+        <div class="back">
+            <a href="{% url 'find_options' %}">🔙 Back to Options</a>
+            <a href="{% url 'predict_plant' %}">🔁 Try Another Image</a>
+        </div>
+    </div>
+
+    {% include "footer.html" %}
+</body>
+</html>

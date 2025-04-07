@@ -1,0 +1,96 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9fff9;
+    color: #2f4f4f;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #eafaf1;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #3e8e41; /* Herbal green */
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 10px;
+}
+
+.search-container input {
+    padding: 10px 15px;
+    border: 1px solid #b5d6c7;
+    border-radius: 10px;
+    width: 300px;
+    font-size: 1rem;
+    background-color: #f6fffa;
+}
+
+.search-container button {
+    background-color: #6da76d;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.search-container button:hover {
+    background-color: #548c54;
+}
+
+.recipe-card {
+    background-color: #ffffff;
+    border: 2px solid #b8e6cc;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+
+.recipe-card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.recipe-card h2 {
+    color: #4e773c;
+    margin-bottom: 10px;
+}
+
+.ingredients-list {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.ingredients-list li {
+    margin-bottom: 5px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    color: #3e8e41;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}

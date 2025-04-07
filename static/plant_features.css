@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom right, #e7f8e8, #d1f0d2);
+    color: #053B06;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+    padding: 30px;
+    background-color: rgba(166, 238, 205, 0.8);
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.title {
+    font-size: 32px;
+    color: #054b16;
+    margin-bottom: 10px;
+}
+
+.intro {
+    font-size: 18px;
+    color: #2f5d31;
+    margin-bottom: 25px;
+}
+
+.card {
+    background-color: #f8fff9;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.plant-name {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #195b1f;
+}
+
+.plant-img {
+    width: 70%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 14px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    font-size: 17px;
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.divider {
+    border: none;
+    height: 1.5px;
+    background-color: #cbeac8;
+    margin: 20px 0;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #235c2e;
+    font-weight: bold;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+.back-link:hover {
+    color: #15753f;
+    text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Features</title>
+    <link rel="stylesheet" href="/static/plants.css">
+</head>
+<body>
+
+    <h1>🌿 Plant Features 🌿</h1>
+    
+    {% if plant_info %}
+        <h2>{{ plant_info.name }}</h2>
+        <img src="{{ plant_info.image_url }}" alt="{{ plant_info.name }}" class="plant-image">
+        <p><strong>🔬 Scientific Name:</strong> <span class="scientific-name">{{ plant_info.scientific_name }}</span></p>
+        <p><strong>🌱 Uses:</strong> {{ plant_info.medicinal_uses }}</p>
+        <p><strong>💚 Health Benefits:</strong> {{ plant_info.health_benefits }}</p>
+        <p><strong>📜 Ayurvedic Importance:</strong> {{ plant_info.ayurvedic_importance }}</p>
+    {% else %}
+        <p>❌ No information available for this plant.</p>
+    {% endif %}
+    
+    <a href="/plants/">🔙 Go Back</a>
+
+    <!-- 🔹 JavaScript File Integration -->
+    <script src="{% static 'plant_features.js' %}"></script>
+
+</body>
+</html>
