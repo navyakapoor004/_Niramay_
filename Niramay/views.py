@@ -24,6 +24,8 @@ def home(request):
 def about(request):
     return render(request, 'about.html')
 
+
+
 def symptoms(request):
     return render(request, 'symptoms.html')
 
