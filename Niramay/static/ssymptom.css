@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@400;500&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f1fdf4, #d0eed8);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 32px;
+  margin-top: 40px;
+  color: #265c3a;
+  text-align: center;
+}
+
+.symptom-container {
+  background: rgba(255, 255, 255, 0.4);
+  padding: 30px;
+  border-radius: 20px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  backdrop-filter: blur(12px);
+  margin-top: 30px;
+  text-align: center;
+  border: 2px solid #d9f0d3;
+}
+
+label {
+  display: block;
+  font-size: 18px;
+  color: #2f5233;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 85%;
+  padding: 12px;
+  border-radius: 12px;
+  border: 2px solid #c8e6c9;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: linear-gradient(to right, #4e8f5a, #2f5233);
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.info-text {
+  margin-top: 12px;
+  font-size: 14px;
+  color: #3d5b3f;
+  font-style: italic;
+}
+
+.genie-box {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  width: 180px;
+  text-align: center;
+  animation: float 4s ease-in-out infinite;
+  z-index: 10;
+}
+
+.genie-box img {
+  width: 100px;
+  height: auto;
+}
+
+.genie-message {
+  background-color: #e8f9eb;
+  color: #2f5233;
+  font-size: 14px;
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin-top: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  animation: fadeInMsg 1s ease;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes fadeInMsg {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

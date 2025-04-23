@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Symptoms Page</title>
+  <link rel="stylesheet" href="{% static 'ssymptom.css' %}" />
+</head>
+<body>
+  <h1>Curious About a Plant? Learn Its Healing Powers!</h1>
+
+  <div class="symptom-container">
+    <form method="POST">
+      {% csrf_token %}
+      <label for="plant_name">Enter Plant Name:</label>
+      <input type="text" id="plant_name" name="plant_name" placeholder="E.g., Neem, Tulsi, Aloe Vera" required />
+      <button type="submit">Search</button>
+    </form>
+    {% if message %}
+      <p class="info-text">{{ message }}</p>
+    {% else %}
+      <p class="info-text">Type any medicinal plant's name and explore its healing benefits!</p>
+    {% endif %}
+  </div>
+
+  <!-- Floating Genie Corner Box -->
+  <div class="genie-box">
+    <img src="{% static 'images/plant.png' %}" alt="Nira The Doc Ginnie" />
+    <div class="genie-message" id="genieMsg">✨ I'm Nira! Straight outta the magic lamp with leafy secrets! 😁</div>
+  </div>
+
+  <a href="/find-options/">Go Back</a>
+
+  <script src="{% static 'plant.js' %}"></script>
+</body>
+</html>
+
+

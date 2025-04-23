@@ -1,0 +1,26 @@
+/* Footer Styling */
+.footer {
+    background-color: #003300;  /* Dark Green */
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Ensure Footer Sticks to Bottom */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+}

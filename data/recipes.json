@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Rice Porridge",
+        "ingredients": [
+            "Rice - 1/2 cup",
+            "Water - 2 cups",
+            "Salt - as per taste"
+        ],
+        "instructions": "Boil rice in water until soft. Add salt and serve warm."
+    },
+    {
+        "name": "Turmeric Milk",
+        "ingredients": [
+            "Milk - 1 cup",
+            "Turmeric - 1/2 tsp",
+            "Honey - 1 tsp"
+        ],
+        "instructions": "Warm the milk, add turmeric and honey, mix well, and drink before sleep."
+    },
+    {
+        "name": "Honey Lemon Tea",
+        "ingredients": [
+            "Water - 1 cup",
+            "Honey - 1 tsp",
+            "Lemon Juice - 1 tsp"
+        ],
+        "instructions": "Boil water, add honey and lemon juice, mix well, and serve hot."
+    },
+    {
+        "name": "Garlic Soup",
+        "ingredients": [
+            "Garlic - 3 cloves",
+            "Vegetable broth - 2 cups",
+            "Salt & Pepper - as per taste"
+        ],
+        "instructions": "Saute garlic in oil, add broth, season with salt & pepper, and let it simmer for 10 minutes."
+    },
+    {
+        "name": "Ginger Tea",
+        "ingredients": [
+            "Water - 1 cup",
+            "Ginger - 1 inch (grated)",
+            "Honey - 1 tsp"
+        ],
+        "instructions": "Boil water with ginger, strain, add honey, and serve warm."
+    },
+    {
+        "name": "Cinnamon Tea",
+        "ingredients": [
+            "Water - 1 cup",
+            "Cinnamon Stick - 1 inch",
+            "Honey - 1 tsp"
+        ],
+        "instructions": "Boil water with cinnamon, let it steep for 5 minutes, strain, and add honey before serving."
+    },
+    {
+        "name": "Carrot Beet Juice",
+        "ingredients": [
+            "Carrot - 2",
+            "Beetroot - 1",
+            "Lemon Juice - 1 tsp"
+        ],
+        "instructions": "Blend carrots and beetroot, strain the juice, add lemon juice, and serve fresh."
+    },
+    {
+        "name": "Fenugreek Water",
+        "ingredients": [
+            "Fenugreek Seeds - 1 tsp",
+            "Water - 1 cup"
+        ],
+        "instructions": "Soak fenugreek seeds overnight in water. Drink the water in the morning on an empty stomach."
+    },
+    {
+        "name": "Amla Juice",
+        "ingredients": [
+            "Amla - 2",
+            "Water - 1/2 cup",
+            "Honey - 1 tsp"
+        ],
+        "instructions": "Blend amla with water, strain the juice, and add honey before drinking."
+    },
+    {
+        "name": "Tulsi Kadha",
+        "ingredients": [
+            "Water - 1 cup",
+            "Tulsi Leaves - 5-6",
+            "Ginger - 1/2 inch",
+            "Black Pepper - 2",
+            "Honey - 1 tsp"
+        ],
+        "instructions": "Boil water with tulsi, ginger, and black pepper for 5 minutes. Strain and add honey before serving."
+    },
+    {
+        "name": "Light Khichdi",
+        "ingredients": [
+            "Rice - 1/2 cup",
+            "Moong Dal - 1/4 cup",
+            "Turmeric - 1/2 tsp",
+            "Ghee - 1 tsp",
+            "Salt - as per taste"
+        ],
+        "instructions": "Cook rice and moong dal with turmeric in water. Add ghee before serving."
+    },
+    {
+        "name": "Omega-3 Rich Salad",
+        "ingredients": [
+            "Flaxseeds - 1 tbsp",
+            "Chia Seeds - 1 tbsp",
+            "Walnuts - 5",
+            "Spinach - 1 cup",
+            "Olive Oil - 1 tsp"
+        ],
+        "instructions": "Mix all ingredients in a bowl. Drizzle with olive oil and serve fresh."
+    },
+    {
+        "name": "Anti-inflammatory Golden Paste",
+        "ingredients": [
+            "Turmeric - 1 tbsp",
+            "Black Pepper - 1/4 tsp",
+            "Ghee - 1 tbsp",
+            "Water - 1/2 cup"
+        ],
+        "instructions": "Cook turmeric and black pepper in water until thick. Add ghee and store for daily use."
+    },
+    {
+        "name": "Zinc-Rich Smoothie",
+        "ingredients": [
+            "Pumpkin Seeds - 1 tbsp",
+            "Almonds - 5",
+            "Banana - 1",
+            "Milk - 1 cup"
+        ],
+        "instructions": "Blend all ingredients until smooth and serve chilled."
+    },
+    {
+        "name": "Probiotic-Rich Lassi",
+        "ingredients": [
+            "Curd - 1 cup",
+            "Water - 1/2 cup",
+            "Cumin Powder - 1/2 tsp",
+            "Salt - as per taste"
+        ],
+        "instructions": "Blend curd with water, add cumin powder and salt. Serve chilled."
+    },
+    {
+        "name": "Quinoa Salad",
+        "description": "A protein-packed salad with fresh veggies.",
+        "ingredients": [
+            "1 cup quinoa",
+            "1 cucumber",
+            "1 tomato",
+            "1/2 red onion",
+            "1/4 cup feta cheese",
+            "2 tbsp olive oil",
+            "1 tbsp lemon juice",
+            "Salt & pepper"
+        ],
+        "instructions": "Cook quinoa as per package instructions. Chop vegetables and mix with quinoa. Add feta cheese, olive oil, lemon juice, salt, and pepper. Toss well and serve."
+    },
+    {
+        "name": "Avocado Toast",
+        "description": "A simple yet nutritious breakfast option.",
+        "ingredients": [
+            "1 slice whole grain bread",
+            "1/2 avocado",
+            "1/2 tsp lemon juice",
+            "Salt & pepper",
+            "Chili flakes (optional)"
+        ],
+        "instructions": "Toast the bread. Mash avocado with lemon juice, salt, and pepper. Spread on toast and top with chili flakes."
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "description": "A protein-rich and refreshing breakfast or snack.",
+        "ingredients": [
+            "1 cup Greek yogurt",
+            "1/2 cup granola",
+            "1/2 cup mixed berries",
+            "1 tbsp honey"
+        ],
+        "instructions": "Layer Greek yogurt, granola, and berries in a glass. Drizzle with honey and serve."
+    },
+    {
+        "name": "Oats and Chia Pudding",
+        "description": "A fiber-rich overnight breakfast option.",
+        "ingredients": [
+            "1/2 cup rolled oats",
+            "1 tbsp chia seeds",
+            "1 cup almond milk",
+            "1 tbsp honey",
+            "1/2 tsp vanilla extract",
+            "Fruits & nuts for topping"
+        ],
+        "instructions": "Mix oats, chia seeds, almond milk, honey, and vanilla extract in a jar. Refrigerate overnight. Top with fruits and nuts before serving."
+    },
+    {
+        "name": "Grilled Chicken with Steamed Vegetables",
+        "description": "A high-protein, low-carb meal.",
+        "ingredients": [
+            "1 chicken breast",
+            "1 tsp olive oil",
+            "1/2 tsp garlic powder",
+            "Salt & pepper",
+            "1 cup steamed vegetables (broccoli, carrots, beans)"
+        ],
+        "instructions": "Marinate chicken with olive oil, garlic powder, salt, and pepper. Grill until cooked. Serve with steamed vegetables."
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "description": "A quick and healthy veggie-packed dish.",
+        "ingredients": [
+            "1 bell pepper",
+            "1 carrot",
+            "1/2 zucchini",
+            "1/2 onion",
+            "2 tbsp soy sauce",
+            "1 tbsp olive oil",
+            "1 tsp ginger-garlic paste"
+        ],
+        "instructions": "Heat oil in a pan. Add ginger-garlic paste and chopped vegetables. Stir-fry for 5 minutes. Add soy sauce and toss well."
+    }
+]

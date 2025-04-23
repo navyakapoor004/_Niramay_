@@ -6,5 +6,6 @@ myvenv/
 *.ckpt
 *.csv
 *.jpg
+*.pyc
 *.jpeg
 *.png

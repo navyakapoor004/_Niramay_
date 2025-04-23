@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Ginseng",
+        "scientific_name": "Ginseng - Jinseng (Panax ginseng)",
+        "medicinal_uses": "Fatigue, Stress Relief, Mental Clarity",
+        "health_benefits": "Boosts energy levels, enhances brain function, and reduces stress.",
+        "ayurvedic_importance": "Used as an adaptogen to improve overall vitality and longevity.",
+        "image_url" : "https://3.imimg.com/data3/FD/HF/MY-11125524/panax-ginseng-250x250.jpeg"
+    },
+    {
+        "name": "Sandalwood(Chandan)",
+        "scientific_name": "Santalum album",
+        "medicinal_uses": "Skin Care, Antiseptic, Mood Enhancement",
+        "health_benefits": "Reduces skin irritation, acts as an antiseptic, and promotes relaxation.",
+        "ayurvedic_importance": "Used in Ayurveda for skin treatments and calming effects.",
+        "image_url" : "https://t3.ftcdn.net/jpg/01/89/97/28/360_F_189972869_WTLDUGIFf100rFFNmBpchvi2Wd3UMbzi.jpg"
+    },
+    {
+        "name": "Rosemary",
+        "scientific_name": "Salvia rosmarinus",
+        "medicinal_uses": "Hair Growth, Cognitive Function, Muscle Pain",
+        "health_benefits": "Improves memory, stimulates hair growth, and relieves muscle pain.",
+        "ayurvedic_importance": "Known for its ability to enhance brain function and circulation.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2024/11/463848538/HP/GB/QR/4571553/rosemary-leaf-1000x1000.jpg"
+    },
+    {
+        "name": "Lemon(Neembu)",
+        "scientific_name": "Citrus limon",
+        "medicinal_uses": "Digestion, Detoxification, Skin Health",
+        "health_benefits": "Aids digestion, detoxifies the body, and brightens skin.",
+        "ayurvedic_importance": "Used in Ayurveda for balancing digestion and cleansing the body.",
+        "image_url" : "https://t4.ftcdn.net/jpg/02/85/95/37/360_F_285953794_Aufu90PPcaOk59DQLSbSMRkLQumniBXi.jpg"
+    },
+    {
+        "name": "Fennel Seeds(Saunf)",
+        "scientific_name": "Foeniculum vulgare",
+        "medicinal_uses": "Digestion, Flatulence, Bloating",
+        "health_benefits": "Eases digestion, reduces bloating, and prevents indigestion.",
+        "ayurvedic_importance": "Commonly used for digestive health and cooling the body.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2024/9/448517896/EH/ZZ/LJ/186644935/fennel-seed-250x250.jpg"
+    },
+    {
+        "name": "Curry Leaves(Kari Patta)",
+        "scientific_name": "Murraya koenigii",
+        "medicinal_uses": "Hair Growth, Skin Health, Eye Health",
+        "health_benefits": "Strengthens hair roots, improves vision, and nourishes the skin.",
+        "ayurvedic_importance": "Traditionally used for hair and eye care in Ayurveda.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2024/2/388926285/ZP/LF/MO/110255531/curry-leaves-250x250.jpg"
+    },
+    {
+        "name": "Mustard(sarso)",
+        "scientific_name": "OSarson (Brassica juncea)",
+        "medicinal_uses": "Pain Relief, Joint Health, Circulation Boost",
+        "health_benefits": "Relieves joint pain, improves blood circulation, and reduces inflammation.",
+        "ayurvedic_importance": "Used in Ayurveda for muscle relaxation and warming therapy.",
+        "image_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mustard_plant_flower.jpg/1200px-Mustard_plant_flower.jpg",
+        "image_url2" : "https://5.imimg.com/data5/SELLER/Default/2024/8/441325845/LW/BM/IR/217302667/black-mustard-seeds-250x250.jpg"
+    },
+    {
+        "name": "Garlic(Lehsun)",
+        "scientific_name": "Allium sativum",
+        "medicinal_uses": "Immunity, Blood Pressure Control, Detoxification",
+        "health_benefits": "Boosts immunity, lowers blood pressure, and detoxifies the body.",
+        "ayurvedic_importance": "Considered a powerful natural antibiotic in Ayurveda.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2021/2/CE/BA/ON/100067203/garlic-cloves-250x250.jpg"
+    },
+    {
+        "name": "Thyme(Ajwain ke Phool)",
+        "scientific_name": "Thymus vulgaris",
+        "medicinal_uses": "Respiratory Health, Cough, Cold",
+        "health_benefits": "Clears congestion, soothes cough, and supports respiratory function.",
+        "ayurvedic_importance": "Used for treating colds and infections naturally.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2025/1/479599185/AM/HA/KY/70690634/fresh-thyme-leaves-250x250.jpg"
+    },
+    {
+        "name": "Sage(Safed Marua)",
+        "scientific_name": "Salvia officinalis",
+        "medicinal_uses": "Memory, Cognitive Function, Stress Relief",
+        "health_benefits": "Enhances memory, reduces stress, and supports brain function.",
+        "ayurvedic_importance": "Known as a brain booster and stress reliever in Ayurveda.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2025/2/491605361/YG/VI/GB/127368886/sage-leaves-250x250.jpg"
+    },
+    {
+        "name": "Tulsi",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Treats cough, cold, and respiratory disorders.",
+        "health_benefits": "Boosts immunity, reduces stress, and improves digestion.",
+        "ayurvedic_importance": "Considered sacred in Ayurveda, used in many herbal formulations.",
+        "image_url" : "https://cdn.britannica.com/87/207887-050-F48CB55D/basil.jpg"
+    },
+    {
+        "name": "Neem",
+        "scientific_name": "Azadirachta indica)",
+        "medicinal_uses": "Used for skin infections, diabetes control, and detoxification.",
+        "health_benefits": "Purifies blood, improves liver function, and has antibacterial properties.",
+        "ayurvedic_importance": "Known as 'Sarva Roga Nivarini' meaning universal healer.",
+        "image_url" : "https://t4.ftcdn.net/jpg/01/62/06/13/360_F_162061329_zBjGZB5a7opc8Ix99SZ7vsh3l2F5Z3TO.jpg"
+    },
+    {
+        "name": "Aloe Vera",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Helps in wound healing, skin hydration, and digestive aid.",
+        "health_benefits": "Soothes burns, promotes hair growth, and regulates blood sugar.",
+        "ayurvedic_importance": "Used in Ayurveda for skincare and gut health.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2024/8/447086045/BA/AR/VU/24094004/fresh-aloe-vera-leaf-250x250.jpg"
+    },
+    {
+        "name": "Arjuna",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Heart Health, Blood Circulation, Cholesterol Control",
+        "health_benefits": "Strengthens heart muscles, improves circulation, and reduces cholesterol.",
+        "ayurvedic_importance": "One of the best herbs for heart health in Ayurveda.",
+        "image_url" : "https://5.imimg.com/data5/ANDROID/Default/2022/3/JC/ED/UT/6411974/product-jpeg-250x250.jpg"
+    },
+    {
+        "name": "Moringa",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Immunity, Nutrient Boost, Anti-inflammatory",
+        "health_benefits": "Rich in vitamins and minerals, boosts immunity, and fights inflammation.",
+        "ayurvedic_importance": "Known as the 'Miracle Tree' in Ayurveda due to its high nutrient value.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2021/5/AH/RK/SC/1504076/dried-moringa-oleifera-leaves-250x250.jpeg"
+    },
+    {
+        "name": "Holy Basil",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Immunity, Stress Relief, Respiratory Health",
+        "health_benefits": "Fights infections, reduces stress, and improves lung function.",
+        "ayurvedic_importance": "Considered sacred and used in many Ayurvedic formulations.",
+        "image_url" : "https://5.imimg.com/data5/SELLER/Default/2022/4/KX/XQ/OR/23010464/holy-basil-leaves-250x250.jpg"
+    },
+    {
+        "name": "Tulsi",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Treats cough, cold, and respiratory disorders.",
+        "health_benefits": "Boosts immunity, reduces stress, and improves digestion.",
+        "ayurvedic_importance": "Considered sacred in Ayurveda, used in many herbal formulations.",
+        "image_url": "https://t3.ftcdn.net/jpg/01/89/97/28/360_F_189972869_WTLDUGIFf100rFFNmBpchvi2Wd3UMbzi.jpg"
+    },
+    {
+        "name": "Neem",
+        "scientific_name": "Neem - Azadirachta indica",
+        "medicinal_uses": "Used for skin infections, diabetes control, and detoxification.",
+        "health_benefits": "Purifies blood, improves liver function, and has antibacterial properties.",
+        "ayurvedic_importance": "Known as 'Sarva Roga Nivarini' meaning universal healer.",
+        "image_url" : "https://t3.ftcdn.net/jpg/01/89/97/28/360_F_189972869_WTLDUGIFf100rFFNmBpchvi2Wd3UMbzi.jpg"
+    },
+    {
+        "name": "Ginger ",
+        "scientific_name": "Zingiber officinale(Hindi: Adrak)",
+        "medicinal_uses": "Digestion, Nausea Relief, Anti-Inflammatory",
+        "health_benefits": "Aids digestion, relieves nausea, and has strong anti-inflammatory properties.",
+        "ayurvedic_importance": "Used in Ayurveda for treating colds, digestion issues, and inflammation.",
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/6/427985378/BF/LR/QN/40452634/s-250x250.jpeg"
+    },
+    {
+        "name": "Turmeric ",
+        "scientific_name": "Curcuma longa(Haldi)",
+        "medicinal_uses": "Anti-Inflammatory, Antioxidant, Wound Healing",
+        "health_benefits": "Reduces inflammation, boosts antioxidants, and helps in wound healing.",
+        "ayurvedic_importance": "Highly valued in Ayurveda for its healing, detoxifying, and anti-aging properties.",
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/418769985/TU/OG/FP/217485739/whole-turmeric-finger-250x250.jpeg"
+    },
+    {
+        "name": "Aloe Vera",
+        "scientific_name": "Ocimum sanctum",
+        "medicinal_uses": "Helps in wound healing, skin hydration, and digestive aid.",
+        "health_benefits": "Soothes burns, promotes hair growth, and regulates blood sugar.",
+        "ayurvedic_importance": "Used in Ayurveda for skincare and gut health.",
+        "image_url" : "https://t3.ftcdn.net/jpg/01/89/97/28/360_F_189972869_WTLDUGIFf100rFFNmBpchvi2Wd3UMbzi.jpg"
+    }
+    
+]

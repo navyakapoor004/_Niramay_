@@ -1,0 +1,46 @@
+{% include "header.html" %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Niramay | What Would You Like to Explore?</title>
+    <link rel="stylesheet" href="{% static 'find_opt.css' %}">
+</head>
+<body>
+    <div class="options-wrapper">
+        <h1>🌿 Welcome to Niramay!</h1>
+        <p class="intro">Your personalized journey into Ayurveda, Healing Herbs, and Healthy Living starts here 💚</p>
+
+        <div class="cards-container">
+            <div class="option-card" onclick="location.href='{% url 'symptoms' %}'">
+                <h3>🩺 I’m Not Feeling Well</h3>
+                <p>Let us help you find natural Ayurvedic remedies.</p>
+            </div>
+
+            <div class="option-card" onclick="location.href='{% url 'plants' %}'">
+                <h3>🌱 Explore Healing Plants</h3>
+                <p>Discover magical herbs and their natural healing powers.</p>
+            </div>
+
+            <div class="option-card" onclick="location.href='{% url 'recipes' %}'">
+                <h3>🍲 Feeling Hungry?</h3>
+                <p>Cook delicious, immunity-boosting meals with us!</p>
+            </div>
+
+            <div class="option-card" onclick="location.href='{% url 'predict_plant' %}'">
+                <h3>🔍 Identify Plant by Leaf</h3>
+                <p>Upload a leaf image & let AI tell you the plant name.</p>
+            </div>
+        </div>
+
+        <div class="return-home">
+            <a href="/">🔙 Return to Home</a>
+        </div>
+    </div>
+
+    {% include "footer.html" %}
+</body>
+</html>

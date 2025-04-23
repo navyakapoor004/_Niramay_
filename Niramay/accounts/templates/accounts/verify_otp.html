@@ -1,0 +1,24 @@
+{% include "header.html" %}
+<title>Verify OTP</title>
+<body>
+    <h2>Verify OTP</h2>
+    
+    {% if messages %}
+        <ul>
+            {% for message in messages %}
+                <li style="color: red;">{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    
+    <form method="post">
+        {% csrf_token %}
+        
+        <label for="otp">Enter OTP:</label>
+        <input type="text" name="otp_code" required><br><br>
+
+        <button type="submit">Verify OTP</button>
+    </form>
+</body>
+</html>
+{% include "footer.html" %}

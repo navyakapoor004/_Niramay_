@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Recipes</title>
+    <link rel="stylesheet" href="/static/recipies.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>🍽️ Healthy Recipes</h1>
+
+        <!-- Search Box -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search by ingredient..." aria-label="Search Recipes">
+            <button onclick="searchRecipes()">🔍 Search</button>
+            <button onclick="clearSearch()">❌ Clear</button>
+        </div>
+
+        <div id="recipe-list">
+            {% if recipes %}
+                {% for recipe in recipes %}
+                    <div class="recipe-card">
+                        <h2>{{ recipe.name }}</h2>
+                        <p><strong>Description:</strong> {{ recipe.description }}</p>
+
+                        <h3>Ingredients:</h3>
+                        <ul class="ingredients-list">
+                            {% if recipe.ingredients %}
+                                {% for ingredient in recipe.ingredients %}
+                                    <li>{{ ingredient }}</li>
+                                {% endfor %}
+                            {% else %}
+                                <li>No Ingredients Available</li>
+                            {% endif %}
+                        </ul>
+
+                        <h3>Instructions:</h3>
+                        <p>{{ recipe.instructions }}</p>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p>No recipes found.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <a href="/">🔙 Go Back</a>
+
+    <!-- JavaScript for Search -->
+    <script>
+        function searchRecipes() {
+            let input = document.getElementById("searchInput").value.toLowerCase().trim();
+            let recipes = document.querySelectorAll(".recipe-card");
+
+            recipes.forEach(recipe => {
+                let ingredients = Array.from(recipe.querySelectorAll(".ingredients-list li")).map(li => li.innerText.toLowerCase());
+                recipe.style.display = ingredients.some(ingredient => ingredient.includes(input)) || input === "" ? "block" : "none";
+            });
+        }
+
+        function clearSearch() {
+            document.getElementById("searchInput").value = "";
+            searchRecipes();
+        }
+
+        // Enter key triggers search
+        document.getElementById("searchInput").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                searchRecipes();
+            }
+        });
+    </script>
+</body>
+</html>

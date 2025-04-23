@@ -1,0 +1,2156 @@
+[
+  {
+      "symptom": "fever",
+      "ayurvedic_remedies": [
+          {
+              "name": "Guduchi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Drink warm water",
+          "Apply cold compress"
+      ],
+      "diet_recommendations": [
+          "Rice porridge",
+          "Coconut water",
+          "Boiled vegetables"
+      ]
+  },
+  {
+      "symptom": "cough",
+      "ayurvedic_remedies": [
+          {
+              "name": "Vasaka",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Licorice",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Honey",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Ginger tea",
+          "Salt water gargle"
+      ],
+      "diet_recommendations": [
+          "Warm soups",
+          "Turmeric milk",
+          "Honey lemon tea"
+      ]
+  },
+  {
+      "symptom": "cold",
+      "ayurvedic_remedies": [
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Black Pepper",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Steam inhalation",
+          "Honey with warm water"
+      ],
+      "diet_recommendations": [
+          "Citrus fruits",
+          "Garlic soup",
+          "Ginger tea"
+      ]
+  },
+  {
+      "symptom": "headache",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Peppermint",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Apply peppermint oil",
+          "Drink ginger tea"
+      ],
+      "diet_recommendations": [
+          "Almonds",
+          "Banana",
+          "Hydrating drinks"
+      ]
+  },
+  {
+      "symptom": "Digestion Issue",
+      "ayurvedic_remedies": [
+          {
+              "name": "Triphala, Amla, Harad, Baheda",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Drink warm water",
+          "Apply cold compress"
+      ],
+      "diet_recommendations": [
+          "Rice porridge",
+          "Coconut water",
+          "Boiled vegetables"
+      ]
+  },
+  {
+      "symptom": "cough",
+      "ayurvedic_remedies": [
+          {
+              "name": "Vasaka",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Licorice",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Honey",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Ginger tea",
+          "Salt water gargle"
+      ],
+      "diet_recommendations": [
+          "Warm soups",
+          "Turmeric milk",
+          "Honey lemon tea"
+      ]
+  },
+  {
+      "symptom": "fever",
+      "ayurvedic_remedies": [
+          {
+              "name": "Guduchi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Basil tea",
+          "Cold compress"
+      ],
+      "diet_recommendations": [
+          "Hydrating fluids",
+          "Light khichdi",
+          "Coconut water"
+      ]
+  },
+  {
+      "symptom": "sore throat",
+      "ayurvedic_remedies": [
+          {
+              "name": "Licorice",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Clove",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm salt water gargle",
+          "Honey with warm water"
+      ],
+      "diet_recommendations": [
+          "Herbal teas",
+          "Warm broths",
+          "Soft foods"
+      ]
+  },
+  {
+      "symptom": "cold",
+      "ayurvedic_remedies": [
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Pippali",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Steam inhalation",
+          "Ginger honey syrup"
+      ],
+      "diet_recommendations": [
+          "Warm water",
+          "Spiced herbal tea",
+          "Light soups"
+      ]
+  },
+  {
+      "symptom": "headache",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Peppermint",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Peppermint oil massage",
+          "Cold compress"
+      ],
+      "diet_recommendations": [
+          "Hydrating foods",
+          "Caffeine-free herbal tea"
+      ]
+  },
+  {
+      "symptom": "indigestion",
+      "ayurvedic_remedies": [
+          {
+              "name": "Triphala",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fennel",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm water with lemon",
+          "Jeera (cumin) tea"
+      ],
+      "diet_recommendations": [
+          "Light meals",
+          "Yogurt",
+          "Buttermilk"
+      ]
+  },
+  {
+      "symptom": "constipation",
+      "ayurvedic_remedies": [
+          {
+              "name": "Triphala",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Isabgol",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Castor oil",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm milk with ghee",
+          "Soaked raisins"
+      ],
+      "diet_recommendations": [
+          "High-fiber foods",
+          "Plenty of water",
+          "Fruits like papaya"
+      ]
+  },
+  {
+      "symptom": "diarrhea",
+      "ayurvedic_remedies": [
+          {
+              "name": "Bael",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Kutaj",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Pomegranate",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Banana with honey",
+          "Rice water"
+      ],
+      "diet_recommendations": [
+          "BRAT diet (Banana, Rice, Apple, Toast)",
+          "Coconut water"
+      ]
+  },
+  {
+      "symptom": "nausea",
+      "ayurvedic_remedies": [
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Cardamom",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Mint",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Ginger tea",
+          "Lemon water"
+      ],
+      "diet_recommendations": [
+          "Small light meals",
+          "Plain crackers"
+      ]
+  },
+  {
+      "symptom": "acidity",
+      "ayurvedic_remedies": [
+          {
+              "name": "Amla",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Mulethi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Coriander",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Cold milk",
+          "Aloe vera juice"
+      ],
+      "diet_recommendations": [
+          "Non-spicy foods",
+          "Coconut water",
+          "Banana"
+      ]
+  },
+  {
+      "symptom": "joint pain",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shallaki",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm mustard oil massage",
+          "Hot compress"
+      ],
+      "diet_recommendations": [
+          "Omega-3 rich foods",
+          "Anti-inflammatory spices"
+      ]
+  },
+  {
+      "symptom": "skin rashes",
+      "ayurvedic_remedies": [
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Aloe Vera",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aloe vera gel application",
+          "Coconut oil massage"
+      ],
+      "diet_recommendations": [
+          "Cooling foods",
+          "Plenty of water",
+          "Cucumber"
+      ]
+  },
+  {
+      "symptom": "weak immunity",
+      "ayurvedic_remedies": [
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Guduchi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Turmeric milk",
+          "Chyawanprash"
+      ],
+      "diet_recommendations": [
+          "Vitamin C-rich foods",
+          "Herbal teas"
+      ]
+  },
+  {
+      "symptom": "stress",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Shankhpushpi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Deep breathing exercises",
+          "Meditation"
+      ],
+      "diet_recommendations": [
+          "Magnesium-rich foods",
+          "Warm herbal drinks"
+      ]
+  },
+  {
+      "symptom": "insomnia",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Jatamansi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm milk with nutmeg",
+          "Chamomile tea"
+      ],
+      "diet_recommendations": [
+          "Light dinner",
+          "Avoid caffeine"
+      ]
+  },
+  {
+      "symptom": "hair fall",
+      "ayurvedic_remedies": [
+          {
+              "name": "Bhringraj",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Amla",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Coconut oil massage",
+          "Fenugreek seed paste"
+      ],
+      "diet_recommendations": [
+          "Protein-rich diet",
+          "Nuts and seeds"
+      ]
+  },
+  {
+      "symptom": "dark circles",
+      "ayurvedic_remedies": [
+          {
+              "name": "Aloe Vera",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Cucumber",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Almond oil",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Cold tea bag compress",
+          "Rose water application"
+      ],
+      "diet_recommendations": [
+          "Hydration",
+          "Vitamin E-rich foods"
+      ]
+  },
+  {
+      "symptom": "dandruff",
+      "ayurvedic_remedies": [
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Bhringraj",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fenugreek",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lemon juice with coconut oil",
+          "Aloe vera scalp massage"
+      ],
+      "diet_recommendations": [
+          "Zinc-rich foods",
+          "Plenty of water"
+      ]
+  },
+  {
+      "symptom": "low energy",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shilajit",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Safed Musli",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Dates with milk",
+          "Chyawanprash"
+      ],
+      "diet_recommendations": [
+          "Iron-rich foods",
+          "Balanced diet"
+      ]
+  },
+  {
+      "symptom": "detoxification",
+      "ayurvedic_remedies": [
+          {
+              "name": "Triphala",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Amla",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lukewarm lemon water",
+          "Coriander and mint detox drink"
+      ],
+      "diet_recommendations": [
+          "Green leafy vegetables",
+          "Herbal teas",
+          "Plenty of water"
+      ]
+  },
+  {
+      "symptom": "Immunity-Boosting",
+      "ayurvedic_remedies": [
+          {
+              "name": "Giloy",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Amla",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Honey with warm water",
+          "Ginger tea"
+      ],
+      "diet_recommendations": [
+          "Citrus fruits",
+          "Turmeric milk",
+          "Leafy greens"
+      ]
+  },
+  {
+      "symptom": "Anti-Inflammatory",
+      "ayurvedic_remedies": [
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Guggul",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Nirgundi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Turmeric milk",
+          "Warm compress"
+      ],
+      "diet_recommendations": [
+          "Omega-3 rich foods",
+          "Ginger-infused tea"
+      ]
+  },
+  {
+      "symptom": "Antibacterial",
+      "ayurvedic_remedies": [
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Aloe Vera",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Neem water",
+          "Tulsi tea"
+      ],
+      "diet_recommendations": [
+          "Raw garlic",
+          "Probiotic-rich foods"
+      ]
+  },
+  {
+      "symptom": "Fatigue",
+      "ayurvedic_remedies": [
+          {
+              "name": "Ashwagandha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Almond milk",
+          "Dates and nuts mix"
+      ],
+      "diet_recommendations": [
+          "Protein-rich diet",
+          "Hydrating foods"
+      ]
+  },
+  {
+      "symptom": "Memory Boost",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Jatamansi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Soaked almonds",
+          "Rosemary tea"
+      ],
+      "diet_recommendations": [
+          "Walnuts",
+          "Dark chocolate"
+      ]
+  },
+  {
+      "symptom": "Cognitive Function",
+      "ayurvedic_remedies": [
+          {
+              "name": "Brahmi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Green tea",
+          "Meditation"
+      ],
+      "diet_recommendations": [
+          "Avocados",
+          "Blueberries"
+      ]
+  },
+  {
+      "symptom": "Blood Purification",
+      "ayurvedic_remedies": [
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Neem juice",
+          "Beetroot juice"
+      ],
+      "diet_recommendations": [
+          "Leafy greens",
+          "Lemon water"
+      ]
+  },
+  {
+      "symptom": "Pain Relief",
+      "ayurvedic_remedies": [
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Turmeric milk",
+          "Warm compress"
+      ],
+      "diet_recommendations": [
+          "Anti-inflammatory foods",
+          "Chia seeds"
+      ]
+  },
+  {
+      "symptom": "Cholesterol Control",
+      "ayurvedic_remedies": [
+          {
+              "name": "Guggul",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Garlic water",
+          "Flaxseed drink"
+      ],
+      "diet_recommendations": [
+          "Fiber-rich foods",
+          "Oatmeal"
+      ]
+  },
+  {
+      "symptom": "Weight Loss",
+      "ayurvedic_remedies": [
+          {
+              "name": "Guggul",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lemon and honey water",
+          "Green tea"
+      ],
+      "diet_recommendations": [
+          "High-fiber foods",
+          "Low-carb diet"
+      ]
+  },
+  {
+      "symptom": "Respiratory Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Steam inhalation",
+          "Tulsi tea"
+      ],
+      "diet_recommendations": [
+          "Warm herbal drinks",
+          "Soups"
+      ]
+  },
+  {
+      "symptom": "Stress Relief",
+      "ayurvedic_remedies": [
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Shatavari",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Chamomile tea",
+          "Deep breathing exercises"
+      ],
+      "diet_recommendations": [
+          "Magnesium-rich foods",
+          "Dark chocolate"
+      ]
+  },
+  {
+      "symptom": "Hormonal Balance",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shatavari",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Flaxseed water",
+          "Fenugreek tea"
+      ],
+      "diet_recommendations": [
+          "Balanced diet",
+          "Omega-3 rich foods"
+      ]
+  },
+  {
+      "symptom": "Women’s Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shatavari",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm milk with saffron",
+          "Sesame seed mix"
+      ],
+      "diet_recommendations": [
+          "Iron-rich foods",
+          "Leafy greens"
+      ]
+  },
+  {
+      "symptom": "Liver Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Bhringraj",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aloe vera juice",
+          "Turmeric water"
+      ],
+      "diet_recommendations": [
+          "Bitter foods",
+          "Hydrating drinks"
+      ]
+  },
+  {
+      "symptom": "Skin Disorders",
+      "ayurvedic_remedies": [
+          {
+              "name": "Manjistha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aloe vera gel",
+          "Turmeric paste"
+      ],
+      "diet_recommendations": [
+          "Fresh fruits",
+          "Hydrating foods"
+      ]
+  },
+  {
+      "symptom": "Blood Purification",
+      "ayurvedic_remedies": [
+          {
+              "name": "Manjistha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Neem",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Baheda",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Burdock Root",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Neem juice",
+          "Beetroot juice"
+      ],
+      "diet_recommendations": [
+          "Leafy greens",
+          "Lemon water"
+      ]
+  },
+  {
+      "symptom": "Detoxification",
+      "ayurvedic_remedies": [
+          {
+              "name": "Manjistha",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Burdock Root",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Lemon",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Garlic",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lemon water",
+          "Warm herbal tea"
+      ],
+      "diet_recommendations": [
+          "Hydrating drinks",
+          "Fibre-rich foods"
+      ]
+  },
+  {
+      "symptom": "Brain Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shankhpushpi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Almonds",
+          "Rosemary tea"
+      ],
+      "diet_recommendations": [
+          "Nuts",
+          "Dark chocolate"
+      ]
+  },
+  {
+      "symptom": "Memory Enhancement",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shankhpushpi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Bacopa Monnieri",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Sage",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Soaked almonds",
+          "Green tea"
+      ],
+      "diet_recommendations": [
+          "Walnuts",
+          "Blueberries"
+      ]
+  },
+  {
+      "symptom": "Respiratory Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Baheda",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Tulsi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Thyme",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Peppermint",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Steam inhalation",
+          "Tulsi tea"
+      ],
+      "diet_recommendations": [
+          "Warm herbal drinks",
+          "Soups"
+      ]
+  },
+  {
+      "symptom": "Digestion",
+      "ayurvedic_remedies": [
+          {
+              "name": "Baheda",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fennel",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Cinnamon",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Cardamom",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fenugreek",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Aloe Vera",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Clove",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Lemon",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fennel Seeds",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Jeera water",
+          "Ginger tea"
+      ],
+      "diet_recommendations": [
+          "Fiber-rich foods",
+          "Probiotic yogurt"
+      ]
+  },
+  {
+      "symptom": "Weight Loss",
+      "ayurvedic_remedies": [
+          {
+              "name": "Fennel",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Guggul",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lemon honey water",
+          "Green tea"
+      ],
+      "diet_recommendations": [
+          "Low-carb diet",
+          "Fibre-rich foods"
+      ]
+  },
+  {
+      "symptom": "Blood Sugar Control",
+      "ayurvedic_remedies": [
+          {
+              "name": "Cinnamon",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Cinnamon tea",
+          "Fenugreek water"
+      ],
+      "diet_recommendations": [
+          "Whole grains",
+          "Low-sugar foods"
+      ]
+  },
+  {
+      "symptom": "Digestive Issues",
+      "ayurvedic_remedies": [
+          {
+              "name": "Cardamom",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Peppermint",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Fennel Seeds",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Fennel tea",
+          "Ginger water"
+      ],
+      "diet_recommendations": [
+          "Light meals",
+          "Hydrating foods"
+      ]
+  },
+  {
+      "symptom": "Cough",
+      "ayurvedic_remedies": [
+          {
+              "name": "Cardamom",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Licorice",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Thyme",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Ginger tea",
+          "Salt water gargle"
+      ],
+      "diet_recommendations": [
+          "Warm soups",
+          "Turmeric milk",
+          "Honey lemon tea"
+      ]
+  },
+  {
+      "symptom": "Hair Growth",
+      "ayurvedic_remedies": [
+          {
+              "name": "Fenugreek",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Rosemary",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Curry Leaves",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aloe vera oil massage",
+          "Coconut oil"
+      ],
+      "diet_recommendations": [
+          "Protein-rich diet",
+          "Iron-rich foods"
+      ]
+  },
+  {
+      "symptom": "Pain Relief",
+      "ayurvedic_remedies": [
+          {
+              "name": "Clove",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Mustard",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Turmeric",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginger",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Rosemary",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Turmeric milk",
+          "Warm compress"
+      ],
+      "diet_recommendations": [
+          "Anti-inflammatory foods",
+          "Chia seeds"
+      ]
+  },
+  {
+      "symptom": "Urinary Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Gokhru",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Coconut water",
+          "Barley water"
+      ],
+      "diet_recommendations": [
+          "Hydrating drinks",
+          "Cranberry juice"
+      ]
+  },
+  {
+      "symptom": "Kidney Stones",
+      "ayurvedic_remedies": [
+          {
+              "name": "Gokhru",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Lemon juice",
+          "Coconut water"
+      ],
+      "diet_recommendations": [
+          "Low-oxalate foods",
+          "Hydrating diet"
+      ]
+  },
+  {
+      "symptom": "Cold",
+      "ayurvedic_remedies": [
+          {
+              "name": "Licorice",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Thyme",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Honey ginger tea",
+          "Steam inhalation"
+      ],
+      "diet_recommendations": [
+          "Vitamin C-rich foods",
+          "Warm soups"
+      ]
+  },
+  {
+      "symptom": "Fatigue",
+      "ayurvedic_remedies": [
+          {
+              "name": "Ginseng",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Dates and nuts mix",
+          "Almond milk"
+      ],
+      "diet_recommendations": [
+          "Protein-rich foods",
+          "Hydrating drinks"
+      ]
+  },
+  {
+      "symptom": "Mental Clarity",
+      "ayurvedic_remedies": [
+          {
+              "name": "Ginseng",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Meditation",
+          "Rosemary tea"
+      ],
+      "diet_recommendations": [
+          "Brain-boosting foods",
+          "Leafy greens"
+      ]
+  },
+  {
+      "symptom": "Skin Care",
+      "ayurvedic_remedies": [
+          {
+              "name": "Aloe Vera",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Sandalwood",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aloe vera gel",
+          "Coconut oil"
+      ],
+      "diet_recommendations": [
+          "Vitamin E-rich foods",
+          "Hydrating diet"
+      ]
+  },
+  {
+      "symptom": "Mood Enhancement",
+      "ayurvedic_remedies": [
+          {
+              "name": "Sandalwood",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Aromatherapy",
+          "Chamomile tea"
+      ],
+      "diet_recommendations": [
+          "Mood-boosting foods",
+          "Nuts"
+      ]
+  },
+  {
+      "symptom": "Heart Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Arjuna",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Garlic water",
+          "Flaxseed"
+      ],
+      "diet_recommendations": [
+          "Omega-3 rich foods",
+          "Low-sodium diet"
+      ]
+  },
+  {
+      "symptom": "Cholesterol Control",
+      "ayurvedic_remedies": [
+          {
+              "name": "Arjuna",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Guggul",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Flaxseed drink",
+          "Garlic water"
+      ],
+      "diet_recommendations": [
+          "Fiber-rich foods",
+          "Oatmeal"
+      ]
+  },
+  {
+      "symptom": "Joint Health",
+      "ayurvedic_remedies": [
+          {
+              "name": "Mustard",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Warm mustard oil massage",
+          "Turmeric milk"
+      ],
+      "diet_recommendations": [
+          "Anti-inflammatory foods",
+          "Calcium-rich foods"
+      ]
+  },
+  {
+      "symptom": "Circulation Boost",
+      "ayurvedic_remedies": [
+          {
+              "name": "Mustard",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Hot compress",
+          "Yoga"
+      ],
+      "diet_recommendations": [
+          "Iron-rich foods",
+          "Hydrating drinks"
+      ]
+  },
+  {
+      "symptom": "Nutrient Boost",
+      "ayurvedic_remedies": [
+          {
+              "name": "Moringa",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Moringa smoothie",
+          "Herbal tea"
+      ],
+      "diet_recommendations": [
+          "Superfoods",
+          "Green vegetables"
+      ]
+  },
+  {
+      "symptom": "Stress Relief",
+      "ayurvedic_remedies": [
+          {
+              "name": "Shankhpushpi",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Holy Basil",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Ginseng",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          },
+          {
+              "name": "Sage",
+              "dosage": {
+                  "Mild": "Small dosage, once a day",
+                  "Moderate": "Medium dosage, twice a day",
+                  "Severe": "High dosage, three times a day"
+              }
+          }
+      ],
+      "home_remedies": [
+          "Chamomile tea",
+          "Meditation"
+      ],
+      "diet_recommendations": [
+          "Dark chocolate",
+          "Magnesium-rich foods"
+      ]
+  }
+]
